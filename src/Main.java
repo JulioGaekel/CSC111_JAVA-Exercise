@@ -46,7 +46,7 @@ public class Main {
         System.out.println("Area = " + (width + height));*/
 
         // 1.10 AVERAGE SPEED IN MILES
-        double distanceKilometers = 14;
+        /*double distanceKilometers = 14;
         double distanceMiles = distanceKilometers /1.6;
         double timeInSeconds = (45 * 60) + 30;
         double timeInMinutes = timeInSeconds / 60;
@@ -54,7 +54,10 @@ public class Main {
 
         System.out.println(timeInMinutes);
         System.out.println(timeHours);
-        System.out.println("The average speed of the runner is " + Math.round((distanceMiles / timeHours)) + " miles per hour.");
+        System.out.println("The average speed of the runner is " + Math.round((distanceMiles / timeHours)) + " miles per hour.");*/
+
+
+// CHAPTER 2
 
 
     }
