@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiscExercisesAndNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,8 @@
     "Application.ComputeAverage.executor": "Run",
     "Application.DayCalculator.executor": "Run",
     "Application.DisplayTime.executor": "Run",
+    "Application.Misc.executor": "Run",
+    "Application.MiscExercisesAndNotes.executor": "Run",
     "Application.ModuloExercises.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,7 +78,7 @@
       <workItem from="1705325992847" duration="34000" />
       <workItem from="1705326038984" duration="1244000" />
       <workItem from="1705394028970" duration="2186000" />
-      <workItem from="1705399926036" duration="4030000" />
+      <workItem from="1705399926036" duration="5230000" />
     </task>
     <servers />
   </component>
