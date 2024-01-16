@@ -1,6 +1,11 @@
 public class MiscExercisesAndNotes {
     public static void main(String[] args) {
 
+        /*// Exponent Operations
+        System.out.println(Math.pow(2, 3)); // Displays 8.0
+        System.out.println(Math.pow(4, 0.5));
+        System.out.println(Math.pow(2.5, 2));
+        System.out.println(Math.pow(2.5, -2));*/
 
         /* // Integer Literals
         System.out.println(0B1111); // To denote a binary integer literal, use leading 0b or 0B (zero B). Displays 15.
