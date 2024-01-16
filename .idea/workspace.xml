@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FahrenheitToCelcius.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MiscExercisesAndNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiscExercisesAndNotes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,7 @@
     "Application.ComputeAverage.executor": "Run",
     "Application.DayCalculator.executor": "Run",
     "Application.DisplayTime.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Misc.executor": "Run",
     "Application.MiscExercisesAndNotes.executor": "Run",
     "Application.ModuloExercises.executor": "Run",
@@ -77,7 +81,8 @@
       <workItem from="1705325992847" duration="34000" />
       <workItem from="1705326038984" duration="1244000" />
       <workItem from="1705394028970" duration="2186000" />
-      <workItem from="1705399926036" duration="6072000" />
+      <workItem from="1705399926036" duration="6104000" />
+      <workItem from="1705418494686" duration="3912000" />
     </task>
     <servers />
   </component>
