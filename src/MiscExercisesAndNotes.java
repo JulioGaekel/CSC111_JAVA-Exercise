@@ -37,5 +37,14 @@ public class MiscExercisesAndNotes {
         System.out.println(a);
         System.out.println(b); */
 
+        // NUMERIC TYPE CONVERSIONS (CASTING)
+        /*Casting a type with a small range to a type with a larger range is known as widening a type. Casting a type with a large range to a type with a smaller range is known as narrowing a type. Java will automatically widen a type, but you must narrow a type explicitly. The syntax for casting a type is to specify the target type in parentheses, followed by the
+        variable’s name or the value to be cast. For example, the following statement:
+        System.out.println((int)1.7); // Prints 1 */
+
+        float f = 12.5F;
+        int i = (int)f;
+        System.out.println("f us " + f);
+        System.out.println("i us " + i);
     }
 }
