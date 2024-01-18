@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComputeLoanPayments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeLoanPayments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputeLoanPayments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -36,39 +40,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ComputeAreaWithConsoleInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComputeAreaWithConstant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComputeAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisplayCurrentTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisplayTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Misc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MiscExercisesAndNotes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ModuloExercises.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SalesTax.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julio Gaekel/OneDrive - BBQ - Baumann Bildung und Qualifizierung GmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComputeAreaWithConsoleInput.executor": "Run",
+    "Application.ComputeAreaWithConstant.executor": "Run",
+    "Application.ComputeAverage.executor": "Run",
+    "Application.ComputeLoanPayments.executor": "Run",
+    "Application.DayCalculator.executor": "Run",
+    "Application.DisplayCurrentTime.executor": "Run",
+    "Application.DisplayTime.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Misc.executor": "Run",
+    "Application.MiscExercisesAndNotes.executor": "Run",
+    "Application.ModuloExercises.executor": "Run",
+    "Application.SalesTax.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Julio Gaekel/OneDrive - BBQ - Baumann Bildung und Qualifizierung GmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "database.data.views",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-f719d367" />
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-6064fd94" />
       </set>
     </attachedChunks>
   </component>
@@ -86,7 +93,9 @@
       <workItem from="1705399926036" duration="6104000" />
       <workItem from="1705418494686" duration="6630000" />
       <workItem from="1705477586988" duration="4282000" />
-      <workItem from="1705493846247" duration="791000" />
+      <workItem from="1705493846247" duration="2097000" />
+      <workItem from="1705500311515" duration="24000" />
+      <workItem from="1705567622044" duration="4395000" />
     </task>
     <servers />
   </component>
@@ -102,5 +111,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
