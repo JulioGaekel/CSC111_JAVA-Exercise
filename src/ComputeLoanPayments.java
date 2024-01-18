@@ -1,9 +1,10 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class ComputeLoanPayments {
     public static void main(String[] args) {
         // Create Scanner object
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in).useLocale(Locale.ENGLISH);
 
         // Enter annual interest rate in percentage
         System.out.print("Enter annual interest rate, e.g., 7.25%: ");
