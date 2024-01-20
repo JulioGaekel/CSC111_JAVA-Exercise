@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComputeChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CelsiusToFahrenheit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CelsiusToFahrenheit.executor": "Run",
     "Application.ComputeAreaWithConsoleInput.executor": "Run",
     "Application.ComputeAreaWithConstant.executor": "Run",
     "Application.ComputeAverage.executor": "Run",
@@ -98,7 +98,8 @@
       <workItem from="1705493846247" duration="2097000" />
       <workItem from="1705500311515" duration="24000" />
       <workItem from="1705567622044" duration="6770000" />
-      <workItem from="1705586880527" duration="1106000" />
+      <workItem from="1705586880527" duration="2192000" />
+      <workItem from="1705678569130" duration="2222000" />
     </task>
     <servers />
   </component>
