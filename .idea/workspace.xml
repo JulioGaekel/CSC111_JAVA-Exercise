@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TipCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumDigitsInInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Application.MiscExercisesAndNotes.executor": "Run",
     "Application.ModuloExercises.executor": "Run",
     "Application.SalesTax.executor": "Run",
+    "Application.SumDigitsInInteger.executor": "Run",
     "Application.TipCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,7 +103,7 @@
       <workItem from="1705500311515" duration="24000" />
       <workItem from="1705567622044" duration="6770000" />
       <workItem from="1705586880527" duration="2192000" />
-      <workItem from="1705678569130" duration="5357000" />
+      <workItem from="1705678569130" duration="5607000" />
     </task>
     <servers />
   </component>
