@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/AdditionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/SimpleIfDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiscExercisesAndNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiscExercisesAndNotes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
     "Application.ModuloExercises.executor": "Run",
     "Application.SalesTax.executor": "Run",
     "Application.ShowCurrentTime.executor": "Run",
+    "Application.SimpleIfDemo.executor": "Run",
     "Application.SumDigitsInInteger.executor": "Run",
     "Application.TipCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -110,7 +112,7 @@
       <workItem from="1705586880527" duration="2192000" />
       <workItem from="1705678569130" duration="11020000" />
       <workItem from="1705907624067" duration="633000" />
-      <workItem from="1705936273026" duration="1264000" />
+      <workItem from="1705936273026" duration="2868000" />
     </task>
     <servers />
   </component>
