@@ -1,6 +1,9 @@
+import java.util.Scanner;
+
 public class MiscExercisesAndNotes {
     public static void main(String[] args) {
 
+        Scanner sc = new Scanner(System.in);
         /*// Exponent Operations
         System.out.println(Math.pow(2, 3)); // Displays 8.0
         System.out.println(Math.pow(4, 0.5));
@@ -42,9 +45,31 @@ public class MiscExercisesAndNotes {
         variable’s name or the value to be cast. For example, the following statement:
         System.out.println((int)1.7); // Prints 1 */
 
-        float f = 12.5F;
+/*        float f = 12.5F;
         int i = (int)f;
         System.out.println("f us " + f);
-        System.out.println("i us " + i);
+        System.out.println("i us " + i);*/
+
+        // Write an if statement that assigns 1 to x if y is greater than 0.
+
+/*        System.out.println("Enter an integer: ");
+        int y = sc.nextInt();
+        int x = 0;
+        if (y > 0) {
+            x = 1;
+        }
+        System.out.println(x);*/
+
+        //Write an if statement that increases pay by 3% if score is greater than 90.
+/*        double pay = 100;
+        System.out.println("Enter a score: ");
+        int score = sc.nextInt();
+
+        if (score > 90) {
+            pay = pay + (pay * 0.03);
+        }
+        System.out.println(pay);
+        */
+
     }
 }
