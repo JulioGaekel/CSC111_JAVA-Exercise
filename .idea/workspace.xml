@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/IfElseExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelsiusToFahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/CelsiusToFahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeAreaWithConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeAreaWithConsoleInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeAreaWithConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeAreaWithConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeLoanPayments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeLoanPayments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeVolumeCylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ComputeVolumeCylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertFeetToMeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ConvertFeetToMeters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertPoundsToKilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ConvertPoundsToKilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/DayCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DisplayCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/DisplayCurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/DisplayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindNumberOfYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/FindNumberOfYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModuloExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ModuloExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalesTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/SalesTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShowCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/ShowCurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumDigitsInInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/SumDigitsInInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TipCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/TipCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +132,7 @@
       <workItem from="1705678569130" duration="11020000" />
       <workItem from="1705907624067" duration="633000" />
       <workItem from="1705936273026" duration="3168000" />
-      <workItem from="1706001120690" duration="1220000" />
+      <workItem from="1706001120690" duration="1669000" />
     </task>
     <servers />
   </component>
