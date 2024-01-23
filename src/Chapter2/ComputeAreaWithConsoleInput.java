@@ -1,3 +1,5 @@
+package Chapter2;
+
 import java.util.Random;
 import java.util.Scanner; // Scanner is in the java.util package
 public class ComputeAreaWithConsoleInput {

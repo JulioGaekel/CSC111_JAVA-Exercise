@@ -1,3 +1,5 @@
+package Chapter2;
+
 public class DisplayCurrentTime {
     public static void main(String[] args) {
         /* ASSIGNMENT: The problem is to develop a program that displays the current time in GMT (Greenwich Mean Time) in the format hour:minute:second, such as 13:19:8.*/
