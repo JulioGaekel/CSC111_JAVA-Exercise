@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/Lottery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3_Selections/ComputeTaxUS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3_Selections/ComputeTaxUS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,52 +40,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdditionQuiz.executor": "Run",
-    "Application.CelsiusToFahrenheit.executor": "Run",
-    "Application.ComputeAndInterpretBMI.executor": "Run",
-    "Application.ComputeAreaWithConsoleInput.executor": "Run",
-    "Application.ComputeAreaWithConstant.executor": "Run",
-    "Application.ComputeAverage.executor": "Run",
-    "Application.ComputeChange.executor": "Run",
-    "Application.ComputeLoanPayments.executor": "Run",
-    "Application.ComputeTaxUS.executor": "Run",
-    "Application.ComputeVolumeCylinder.executor": "Run",
-    "Application.ConvertFeetToMeters.executor": "Run",
-    "Application.ConvertPoundsToKilos.executor": "Run",
-    "Application.DayCalculator.executor": "Run",
-    "Application.DisplayCurrentTime.executor": "Run",
-    "Application.DisplayTime.executor": "Run",
-    "Application.FahrenheitToCelsius.executor": "Run",
-    "Application.FindNumberOfYears.executor": "Run",
-    "Application.IfElseExercise.executor": "Run",
-    "Application.Misc.executor": "Run",
-    "Application.MiscExercisesAndNotes.executor": "Run",
-    "Application.ModuloExercises.executor": "Run",
-    "Application.SalesTax.executor": "Run",
-    "Application.ShowCurrentTime.executor": "Run",
-    "Application.SimpleIfDemo.executor": "Run",
-    "Application.SubtractionQuiz.executor": "Run",
-    "Application.SumDigitsInInteger.executor": "Run",
-    "Application.TipCalculator.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Julio Gaekel/OneDrive - BBQ - Baumann Bildung und Qualifizierung GmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdditionQuiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeAndInterpretBMI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeAreaWithConsoleInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeAreaWithConstant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeChange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeLoanPayments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeTaxUS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeVolumeCylinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertFeetToMeters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertPoundsToKilos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisplayCurrentTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisplayTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNumberOfYears.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Misc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiscExercisesAndNotes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModuloExercises.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SalesTax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShowCurrentTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleIfDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubtractionQuiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumDigitsInInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBooleanOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julio Gaekel/OneDrive - BBQ - Baumann Bildung und Qualifizierung GmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Chapter2" />
@@ -138,7 +140,8 @@
       <workItem from="1706026149075" duration="185000" />
       <workItem from="1706026342008" duration="2569000" />
       <workItem from="1706030298965" duration="638000" />
-      <workItem from="1706081630378" duration="1603000" />
+      <workItem from="1706081630378" duration="7222000" />
+      <workItem from="1706115052375" duration="1797000" />
     </task>
     <servers />
   </component>
