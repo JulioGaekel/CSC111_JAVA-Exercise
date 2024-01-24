@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/Lottery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,9 +143,13 @@
       <workItem from="1706001120690" duration="9746000" />
       <workItem from="1706026149075" duration="185000" />
       <workItem from="1706026342008" duration="2569000" />
+<<<<<<< Updated upstream
       <workItem from="1706030298965" duration="638000" />
       <workItem from="1706081630378" duration="7222000" />
       <workItem from="1706115052375" duration="1797000" />
+=======
+      <workItem from="1706030298965" duration="723000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
