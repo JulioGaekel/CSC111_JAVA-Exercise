@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3_Selections/Lottery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 =======
@@ -146,9 +145,15 @@
 <<<<<<< Updated upstream
       <workItem from="1706030298965" duration="638000" />
       <workItem from="1706081630378" duration="7222000" />
+<<<<<<< Updated upstream
       <workItem from="1706115052375" duration="1797000" />
 =======
       <workItem from="1706030298965" duration="723000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1706115052375" duration="1831000" />
+      <workItem from="1706184934765" duration="24000" />
+      <workItem from="1706184975250" duration="31000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
