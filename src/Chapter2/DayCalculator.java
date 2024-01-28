@@ -18,28 +18,13 @@ public class DayCalculator {
 
         // Display result
         switch (dayGoal) {
-            case 1:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Monday");
-                break;
-            case 2:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Tuesday");
-                break;
-            case 3:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Wednesday");
-                break;
-            case 4:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Thurday");
-                break;
-            case 5:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Friday");
-                break;
-            case 6:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Saturday");
-                break;
-            case 0:
-                System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Sunday");
-                break;
-
+            case 1: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Monday"); break;
+            case 2: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Tuesday"); break;
+            case 3: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Wednesday"); break;
+            case 4: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Thurday"); break;
+            case 5: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Friday"); break;
+            case 6: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Saturday"); break;
+            case 0: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Sunday"); break;
         }
     }
 }
