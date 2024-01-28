@@ -17,6 +17,7 @@ public class DayCalculator {
         int dayGoal = (currentDay + daysInFuture) % 7;
 
         // Display result
+        // Display corresponding day of the week using a Switch Statement
         switch (dayGoal) {
             case 1: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Monday"); break;
             case 2: System.out.println("If you add " + daysInFuture + " days to " + currentDay + ", the day would be Tuesday"); break;
