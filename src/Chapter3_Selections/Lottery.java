@@ -23,8 +23,8 @@ public class Lottery {
         System.out.println("The lottery number is " + lottery);
 
         // Check guess
-        if (guess == lottery) {
+/*        if (guess == lottery) {
             System.out.println("Exact guess: you win $10,000");
-        } else if () // CONTINUAR ACA
+        } else if () // CONTINUAR ACA*/
     }
 }
