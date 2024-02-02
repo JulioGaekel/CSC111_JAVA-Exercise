@@ -16,8 +16,8 @@ public class CalculateAreaPentagon {
 
         // Formula: Calculate area of a pentagon
         double area = (5 * Math.pow(s,2)) / (4 * Math.tan(Math.PI / 5));
-        
+
         // Display result
-        System.out.println(area);
+        System.out.printf("The area of the pentagon is %.2f",area);
     }
 }
