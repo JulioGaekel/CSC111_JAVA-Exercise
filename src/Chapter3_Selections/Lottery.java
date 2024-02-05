@@ -9,7 +9,6 @@ public class Lottery {
 
         // Prompt the user to enter a guess
         Scanner sc = new Scanner(System.in);
-        System.out.println("The lottery number is " + lottery); // NOTE: TEST PURPOSES. DELETE AFTER.
         System.out.print("Enter lottery number (two digits): ");
         int guess = sc.nextInt();
 
@@ -24,12 +23,8 @@ public class Lottery {
         System.out.println("The lottery number is " + lottery);
 
         // Check guess
-        if (guess == lottery) {
+/*        if (guess == lottery) {
             System.out.println("Exact guess: you win $10,000");
-        } else if (guessDigit1 == lotteryDigit2 && guessDigit2 == lotteryDigit1) {
-            System.out.println("second case");
-        } else if (/*CONTINUAR ACA*/){
-
-        }
+        } else if () // CONTINUAR ACA*/
     }
 }

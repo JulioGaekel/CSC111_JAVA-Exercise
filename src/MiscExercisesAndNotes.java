@@ -71,5 +71,20 @@ public class MiscExercisesAndNotes {
         System.out.println(pay);
         */
 
+/*        int x = 3, y = 3;
+        switch (x + 3) {
+            case 6: y = 1;
+            default: y += 1;
+        }
+        System.out.println(y);
+
+        if (x + 3 == 6) {
+            y = 1;
+            y += 1;
+        } else {
+            y += 1;
+        }
+        System.out.println(y);*/
+        }
     }
 }
