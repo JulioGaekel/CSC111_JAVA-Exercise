@@ -38,12 +38,12 @@ public class SubtractionQuizLoop {
                 System.out.println("Your answer is wrong.\n" + number1 + " - " + number2 + " should be " + (number1 - number2));
             }
 
-            count++;
-            output += "\n" + number1 + "-" + number2 + "=" + answer + ((number1 - number2 == answer) ? " correct" : " wrong");
+            count++; // Regardless of the result, count goes one instance up in order to reach NUMBER_OF_QUESTIONS
+            output += "\n" + number1 + "-" + number2 + "=" + answer + ((number1 - number2 == answer) ? " correct" : " wrong"); // Add each question, given answer and grade to a string starting each instance in a new line
         }
-        long endTime = System.currentTimeMillis();
-        long testTime = endTime - startTime;
+        long endTime = System.currentTimeMillis(); // Get end time
+        long testTime = endTime - startTime; // Get total duration of the test
 
-        System.out.println("Correct count is " + correctCount + "\nTest time is " + testTime / 1000 + " seconds\n" + output);
+        System.out.println("Correct count is " + correctCount + "\nTest time is " + testTime / 1000 + " seconds\n" + output); // Display summary of test
     }
 }
