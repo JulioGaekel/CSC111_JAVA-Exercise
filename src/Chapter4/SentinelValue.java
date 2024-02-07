@@ -22,6 +22,6 @@ public class SentinelValue {
             data = sc.nextInt();
         }
 
-        System.out.println("The sum is " + sum);
+        System.out.println("\nThe sum is " + sum);
     }
 }
