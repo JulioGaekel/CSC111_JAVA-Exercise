@@ -16,7 +16,7 @@ public class GreatestCommonDivisor {
         int gcd = 1; // Greater common divisor initial value is 1
         int k = 2; //possible gcd
 
-        while (k <= firstNumber && k <= secondNumber) {
+        while (k <= firstNumber && k <= secondNumber) { // for (k = 2; k <= firstNumber && k <= secondNumber; k++)
             if (firstNumber % k == 0 && secondNumber % k == 0) {
                 gcd = k;
             }
