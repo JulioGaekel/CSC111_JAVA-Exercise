@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +58,50 @@
     &quot;Application.ComputeLoanPayments.executor&quot;: &quot;Run&quot;,
     &quot;Application.ComputeTaxUS.executor&quot;: &quot;Run&quot;,
     &quot;Application.ComputeVolumeCylinder.executor&quot;: &quot;Run&quot;,
+<<<<<<< Updated upstream
     &quot;Application.ConversionMilesToKilometers.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConversionTableKilosToPounds.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConvertFeetToMeters.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConvertPoundsToKilos.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountPositiveAndNegativeNumberPlusAverage.executor&quot;: &quot;Run&quot;,
+=======
+    &quot;Application.ConvertFeetToMeters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertPoundsToKilos.executor&quot;: &quot;Run&quot;,
+>>>>>>> Stashed changes
     &quot;Application.DayCalculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.DisplayCurrentTime.executor&quot;: &quot;Run&quot;,
     &quot;Application.DisplayTime.executor&quot;: &quot;Run&quot;,
     &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindNumberOfYears.executor&quot;: &quot;Run&quot;,
+<<<<<<< Updated upstream
     &quot;Application.FutureTuition.executor&quot;: &quot;Run&quot;,
     &quot;Application.GreatestCommonDivisor.executor&quot;: &quot;Run&quot;,
+=======
+>>>>>>> Stashed changes
     &quot;Application.IfElseExercise.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lottery.executor&quot;: &quot;Run&quot;,
     &quot;Application.Misc.executor&quot;: &quot;Run&quot;,
     &quot;Application.MiscExercisesAndNotes.executor&quot;: &quot;Run&quot;,
     &quot;Application.ModuloExercises.executor&quot;: &quot;Run&quot;,
+<<<<<<< Updated upstream
     &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
     &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+=======
+>>>>>>> Stashed changes
     &quot;Application.SalesTax.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShowCurrentTime.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimpleIfDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.SubtractionQuiz.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumDigitsInInteger.executor&quot;: &quot;Run&quot;,
+<<<<<<< Updated upstream
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestBooleanOperators.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestDoWhile.executor&quot;: &quot;Run&quot;,
+=======
+    &quot;Application.TestBooleanOperators.executor&quot;: &quot;Run&quot;,
+>>>>>>> Stashed changes
     &quot;Application.TipCalculator.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -109,6 +128,10 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+<<<<<<< Updated upstream
+=======
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-1a501b52" />
+>>>>>>> Stashed changes
         <option value="jdk-1.8.0_402-liberica-1.8.0_402-f644763e9732-ef3366da" />
       </set>
     </attachedChunks>
@@ -140,10 +163,14 @@
       <workItem from="1706030298965" duration="638000" />
       <workItem from="1706081630378" duration="7222000" />
       <workItem from="1706115052375" duration="1797000" />
+<<<<<<< Updated upstream
       <workItem from="1707502367287" duration="3087000" />
       <workItem from="1707736929600" duration="13989000" />
       <workItem from="1707829684325" duration="48000" />
       <workItem from="1707829735445" duration="15000" />
+=======
+      <workItem from="1707252194331" duration="80000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
