@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="44792708-f5fe-4189-babc-120dd102dc80" name="Changes" comment="">
 <<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
@@ -12,6 +13,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+=======
+    <list default="true" id="173954bd-2764-4d18-b0f7-3b7cd22b7721" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumberMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CSC111_JAVA-Exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
 >>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -39,6 +50,12 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2azemGIlyoSZOJhZ3vvZjRWsMOn" />
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cJDBjHdZyTIAFqdv339TJKgxh1" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -48,6 +65,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+<<<<<<< Updated upstream
     &quot;Application.AdditionQuiz.executor&quot;: &quot;Run&quot;,
     &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
     &quot;Application.ComputeAndInterpretBMI.executor&quot;: &quot;Run&quot;,
@@ -103,16 +121,27 @@
     &quot;Application.TestBooleanOperators.executor&quot;: &quot;Run&quot;,
 >>>>>>> Stashed changes
     &quot;Application.TipCalculator.executor&quot;: &quot;Run&quot;,
+=======
+    &quot;Application.GreatestCommonDivisorMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Increment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumberMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPassByValue.executor&quot;: &quot;Run&quot;,
+>>>>>>> Stashed changes
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+<<<<<<< Updated upstream
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Julio Gaekel/OneDrive - BBQ - Baumann Bildung und Qualifizierung GmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise&quot;,
+=======
+    &quot;last_opened_file_path&quot;: &quot;/Users/juliogaekel/Library/CloudStorage/OneDrive-BBQ-BaumannBildungundQualifizierungGmbH/Dokumente/Fachunterricht_AE/CSC111_JAVA-Exercise&quot;,
+>>>>>>> Stashed changes
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+<<<<<<< Updated upstream
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -171,12 +200,33 @@
 =======
       <workItem from="1707252194331" duration="80000" />
 >>>>>>> Stashed changes
+=======
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="173954bd-2764-4d18-b0f7-3b7cd22b7721" name="Changes" comment="" />
+      <created>1707820654115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707820654115</updated>
+      <workItem from="1707820655184" duration="6275000" />
+      <workItem from="1707829847173" duration="59000" />
+      <workItem from="1707829910682" duration="8000" />
+      <workItem from="1707829926842" duration="108000" />
+      <workItem from="1707834578161" duration="12000" />
+      <workItem from="1707834626098" duration="22000" />
+      <workItem from="1707834655033" duration="89000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< Updated upstream
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -191,4 +241,6 @@
     <expand />
     <select />
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
